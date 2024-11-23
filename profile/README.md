@@ -10,6 +10,22 @@ But we're not just any partner – we are a Global Verified GitHub Partner. We a
 
 GitHub is the cornerstone of Xebia's operations. It not only drives our internal processes but also powers collaboration with our valued customers. Whether you're seeking generative AI, end-to-end security, or streamlined collaboration through version control and CI/CD, GitHub, coupled with our expertise, is the answer. 
 
+## GitHub Global Partner of the Year 2024-2025
+
+Xebia has been awarded as GitHub's Global Partner of the Year for 2024-2025, highlighting its expertise in security, AI, and platform engineering. This recognition underscores Xebia's commitment to delivering innovative solutions and driving business success through GitHub's platform. In addition to the global award, Xebia received several key distinctions:
+
+<img src="https://github.com/user-attachments/assets/40a5d67e-9070-48d4-9523-964ad58096ae" width="200" alt="GitHub Overall Channel Partner of the Year 2024 badge"/> 
+<img src="https://github.com/user-attachments/assets/453fe5fd-ec2b-4d6f-9d96-238b2d1ba8f7" width="200" alt="GitHub Security Channel Partner of the Year 2024 badge"/> 
+
+- Winner, EMEA Security
+- Winner, AMER Security
+- Finalist, EMEA Platform & AI
+- Finalist, AMER AI
+
+These accolades reflect Xebia's ability to provide secure, AI-powered solutions and drive platform innovation for clients worldwide. The journey to this achievement began in 2020 when Xebia became the first European GitHub Verified Partner. Since then, Xebia has evolved into a global leader in digital transformation, utilizing GitHub's tools to deliver high-performance IT solutions.
+
+Marcel de Vries, Global Managing Director & CTO of Xebia Microsoft Services, stated, "_GitHub is not just a platform for us—it’s a strategic enabler that allows our customers to unlock innovation, accelerate development, and enhance security._"
+
 ## Cultivating Engineering Excellence with GitHub 
 
 We harness the full potential of GitHub's features for every organization. With tools like GitHub Actions, GitHub Codespaces, GitHub Advanced Security and GitHub Copilot for Business we automate software workflows and development environments, enhance security, and foster seamless collaboration. 
